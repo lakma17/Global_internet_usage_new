@@ -24,8 +24,4 @@ It includes a detailed **PowerPoint presentation** and a **Jupyter Notebook** wi
 - Data visualization and reporting  
 - Jupyter Notebook & Python
 
----
 
-## 📫 Contact
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
