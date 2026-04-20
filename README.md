@@ -10,8 +10,7 @@ It includes a detailed **PowerPoint presentation** and a **Jupyter Notebook** wi
 
 
 ### 1️⃣ Presentation
-- **PowerPoint:** [View Presentation](https://github.com/lakma17/Global_internet_usage_new/blob/main/Global%20Internet%20Usage.pptx)  
- 
+- **PowerPoint:** [View Presentation](https://github.com/lakma17/Global_internet_usage_new/blob/main/internet%20usage.pdf)
 ### 2️⃣ Data Analysis
 - **Jupyter Notebook:** [View Analysis Notebook](https://github.com/lakma17/Global_internet_usage_new/blob/main/internet_usage%20_data.ipynb)  
  
